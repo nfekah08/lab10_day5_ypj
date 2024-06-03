@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308343171893",
+    "project_id": "lab10-5c554",
+    "storage_bucket": "lab10-5c554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308343171893:android:838445fa99b36a2c9f3a7c",
+        "android_client_info": {
+          "package_name": "com.exercise.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9zU_D85mqhnR4x0T1CPfRFTCWwwhWz2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
